@@ -1,12 +1,13 @@
 {
-  "name": "br-connect",
+  "name": "connect",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-reveal": "^1.2.2",
-    "react-scripts": "3.1.2"
+    "react-scripts": "3.1.2",
+   "homepage":"https://yourusername.github.io/repository-name"
   },
   "scripts": {
     "start": "react-scripts start",
