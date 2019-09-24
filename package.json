@@ -7,7 +7,7 @@
     "react-dom": "^16.9.0",
     "react-reveal": "^1.2.2",
     "react-scripts": "3.1.2",
-   "homepage":"https://yourusername.github.io/repository-name"
+   "homepage":"https://bruinreview.github.io/connect/"
   },
   "scripts": {
     "start": "react-scripts start",
