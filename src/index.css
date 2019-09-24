@@ -1,11 +1,63 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    width:100%;
+    height:100%;
+    color: white;
+    background-color: #070707;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
+
+body > div{
+    width: 100%;
+    height:100%;
+}
+
+@font-face {
+    font-family: 'freight-sans';
+    src: url('./resources/fonts/freight-sans-medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'freight-sans';
+    src: url('./resources/fonts/freight-sans-bold.woff') format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'freight-text-book';
+    src: url('./resources/fonts/freight-text-book.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'freight-text-black';
+    src: url('./resources/fonts/freight-text-black-italic.otf') format('opentype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'freight-text';
+    src: url('./resources/fonts/freight-text-medium.otf') format('opentype');
+}
+
+html{
+    --blue: rgba(0, 174, 239);
+    width:100%;
+    height:100%;
+}
+
+.blue{
+    color: rgba(0, 174, 239);
+}
+
+.bg-color{
+    background-color: #070707
+}
+
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",

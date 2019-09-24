@@ -1,0 +1,32 @@
+.left-col, .right-col{
+  width:47%;
+  height:100%;
+  margin: 0 1% 0 1%;
+}
+
+.left-col p, .right-col p{
+  font-family: 'freight-text-book';
+}
+
+.home{
+    width:100%;
+    height:100%;
+}
+.main{
+    margin-top: 40px;
+    width: 85%;
+    /* background-color: #0A0A0A; */
+}
+
+.feature{
+    width:47%;
+    height:100%;
+    margin: 0 1% 0 1%;
+    /* background-color: #111; */
+}
+
+.normal{
+    width:22.5%;
+    margin: 0 1% 0 1%;
+    /* background-color: #111; */
+}

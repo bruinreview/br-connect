@@ -1,0 +1,41 @@
+.vertical-text {
+	transform: rotate(270deg);
+	transform-origin: 0% 100%;
+    top:665px;
+    left: 7%;
+    position:relative;
+}
+
+.line-bottom{
+    height:1px;
+    width:220px;
+    margin-top:19px;
+    border-top-width: 2px;
+    border-color: var(--blue);
+    border-top-style: solid;
+}
+
+.line-top{
+    height:1px;
+    width:45px;
+    margin-top:19px;
+    border-top-width: 2px;
+    border-color: var(--blue);
+    border-top-style: solid;
+}
+.nav{
+    color:white;
+    font-size:30px;
+    font-family:'freight-sans';
+		font-weight: bold;
+}
+
+.nav:hover{
+    color: var(--blue);
+}
+
+
+.container{
+    width:100%;
+    position:absolute;
+}
