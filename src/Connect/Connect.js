@@ -20,11 +20,10 @@ export default class Print extends Component{
               <div className="main flex justify-center">
                 <div className="left-col">
                   <About />
+                  <GetInvolved />
                 </div>
                 <div className="right-col">
                   <Contact />
-                  <GetInvolved />
-                  <Support />
                 </div>
               </div>
           </div>
