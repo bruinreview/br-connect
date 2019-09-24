@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://bruinreview.github.io/connect",
+    "gh-pages": "^2.1.1",
+    "homepage": "https://bruinreview.github.io/connect/",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-reveal": "^1.2.2",
