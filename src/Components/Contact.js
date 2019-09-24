@@ -14,20 +14,8 @@ export default class Contact extends Component{
     render(props){
         return(
             <Fade>
-            <div style={{overflow: "auto"}} className="card" id="contact-card">
-              <h3 className="title">Contact Us</h3>
-              <p>Name</p>
-              <input />
-              <p>Email</p>
-              <input />
-              <p>I am a...</p>
-              <ButtonList />
-              <p>Tell us about an issue in which you hold a contrarian view.</p>
-              <textarea id="response1"/>
-              <p>Describe a recent project or side-hustle.</p>
-              <textarea id="response2"/>
-              <button id="submitBtn">Submit</button>
-            </div>
+            <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
+<iframe className="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shruNSySUuCOZMFae?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="1035" style={{height:'500px', overflow:'auto',background: 'transparent', border: '1px solid #ccc'}}></iframe>
             </Fade>
         )
     }
