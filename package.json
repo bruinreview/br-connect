@@ -35,5 +35,7 @@
   "devDependencies": {
     "gh-pages": "^2.1.1",
     "tachyons": "^4.10.0"
-  }
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
 }
