@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/connect/static/css/main.d157d9d9.chunk.css",
-    "main.js": "/connect/static/js/main.e6541054.chunk.js",
-    "main.js.map": "/connect/static/js/main.e6541054.chunk.js.map",
+    "main.js": "/connect/static/js/main.bb612904.chunk.js",
+    "main.js.map": "/connect/static/js/main.bb612904.chunk.js.map",
     "runtime-main.js": "/connect/static/js/runtime-main.75f23abf.js",
     "runtime-main.js.map": "/connect/static/js/runtime-main.75f23abf.js.map",
     "static/js/2.8f67b0a0.chunk.js": "/connect/static/js/2.8f67b0a0.chunk.js",
     "static/js/2.8f67b0a0.chunk.js.map": "/connect/static/js/2.8f67b0a0.chunk.js.map",
     "index.html": "/connect/index.html",
-    "precache-manifest.598d26516b1e92111759bfa81492c974.js": "/connect/precache-manifest.598d26516b1e92111759bfa81492c974.js",
+    "precache-manifest.006d4cd3dcdd0eaa2dd12f5c6c4b94fa.js": "/connect/precache-manifest.006d4cd3dcdd0eaa2dd12f5c6c4b94fa.js",
     "service-worker.js": "/connect/service-worker.js",
     "static/css/main.d157d9d9.chunk.css.map": "/connect/static/css/main.d157d9d9.chunk.css.map",
     "static/media/index.css": "/connect/static/media/freight-text-medium.e29b058f.otf"
