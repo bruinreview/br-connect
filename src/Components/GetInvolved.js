@@ -16,7 +16,7 @@ export default class GetInvolved extends Component{
             <Fade>
             <div className="card">
               <h3 className="title">Get Involved</h3>
-              <p>Open Discussions - Tuesdays, 7PM, Boelter 4413</p>
+              <p>Open Discussions - Tuesdays, 7PM, Royce 152</p>
               <p>Contact - management@bruinreview.com</p>
             </div>
             </Fade>
